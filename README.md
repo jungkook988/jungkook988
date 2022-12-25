@@ -40,8 +40,6 @@
 # 🚀 Actions
 
 <!-- Analyise -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dancer-CoderD&show_icons=true&hide_border=true&theme=vue-dark" />
-<div align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Dancer-CoderD&show_icons=true&hide_border=true&theme=vue-dark" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dancer-CoderD&theme=blueberry) ](https://git.io/streak-stats)
-</div>
