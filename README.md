@@ -33,9 +33,7 @@
 
 <!-- Dynamic Snake -->
 <div align="center">
-
-![](https://raw.githubusercontent.com/Dancer-CoderD/Dancer-CoderD/main/assets/github-contribution-grid-snake.svg)
-
+  <img src="https://cdn.jsdelivr.net/gh/Dancer-CoderD/Dancer-CoderD/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- Commits -->
