@@ -6,6 +6,9 @@
 <!-- Banner -->
 <img src="https://user-images.githubusercontent.com/96401557/196701699-8749f074-2384-4ce0-908a-4b42e73ebe1e.png">
 
+<br>
+<br>
+
 <!-- Skills -->
 <div align="center">
 
@@ -14,6 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,vue,webpack,vite,nodejs,mysql,electron,java,spring,redis,php)](https://skillicons.dev)
 </div>
 
+<br>
 <br>
 
 <!-- Introduce -->
@@ -39,6 +43,8 @@
 <!-- Commits -->
 ### 🚀 Actions
 
+<br>
+
 <!-- Analyise -->
 <img src="https://github-readme-stats.vercel.app/api?username=Dancer-CoderD&show_icons=true&hide_border=true&theme=vue-dark" />
 
@@ -46,6 +52,8 @@
 
 <!-- Projects -->
 ### ☀️ My Project
+
+<br>
 
 <p align="left">
   <a href="https://github.com/PlayGuitar-CoderQ/ying-jie-xlsx">
