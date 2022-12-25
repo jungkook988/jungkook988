@@ -37,9 +37,22 @@
 </div>
 
 <!-- Commits -->
-# 🚀 Actions
+### 🚀 Actions
 
 <!-- Analyise -->
 <img src="https://github-readme-stats.vercel.app/api?username=Dancer-CoderD&show_icons=true&hide_border=true&theme=vue-dark" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dancer-CoderD&theme=blueberry) ](https://git.io/streak-stats)
+
+<!-- Projects -->
+### ☀️ My Project
+
+<p align="left">
+  <a href="https://github.com/PlayGuitar-CoderQ/ying-jie-xlsx">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PlayGuitar-CoderQ&repo=ying-jie-xlsx&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a> 
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/PlayGuitar-CoderQ/convenience-log">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PlayGuitar-CoderQ&repo=convenience-log&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a> 
+</p>
