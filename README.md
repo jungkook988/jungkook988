@@ -56,6 +56,15 @@
 <br>
 
 <p align="left">
+  <a href="https://github.com/Dancer-CoderD/koa-setup-branch">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dancer-CoderD&repo=koa-setup-branch&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://github.com/Dancer-CoderD/daily-css-praticing">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dancer-CoderD&repo=daily-css-praticing&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/Dancer-CoderD/daily-typescript-challenges">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dancer-CoderD&repo=daily-typescript-challenges&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
@@ -63,10 +72,4 @@
   <a href="https://github.com/Dancer-CoderD/daily-javascript-challenges">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dancer-CoderD&repo=daily-javascript-challenges&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
   </a> 
-</p>
-
-<p align="left">
-  <a href="https://github.com/Dancer-CoderD/daily-css-praticing">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dancer-CoderD&repo=daily-css-praticing&title_color=3f6ad6&text_color=ffffff&bg_color=50,65dad0,58bdec,4090cf,5b88eb,1d48e2&hide_border=true" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
 </p>
