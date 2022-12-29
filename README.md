@@ -1,6 +1,6 @@
 <!-- Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github!;My+name+is+CoderD，;A+Frontend+Developer，;Also+a+Dancer。&center=true&size=32&color=333333&font=Yahei">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github!;My+name+is+CoderD，;A+Front-end+Developer，;Also+a+Dancer。&center=true&size=32&color=333333&font=Yahei">
 </h1>
 
 <!-- Banner -->
